@@ -32,8 +32,8 @@ The preprocessing steps and classifier were integrated using a Scikit-learn pipe
 ## Installation
 
 ```bash
-git clone https://github.com/Sahasubho1/spam-email-classifier.git
-cd spam-email-classifier
+git clone https://github.com/subhasishsaha/email-classifier.git
+cd email-classifier
 ```
 
 ## Usage
